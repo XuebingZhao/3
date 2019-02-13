@@ -2,7 +2,7 @@ package oommf
 
 import (
 	"fmt"
-	"github.com/mumax/3/data"
+	"github.com/XuebingZhao/3/data"
 	"io"
 	"log"
 	"strings"
