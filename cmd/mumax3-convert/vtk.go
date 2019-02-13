@@ -13,7 +13,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/mumax/3/data"
+	"github.com/XuebingZhao/3/data"
 )
 
 func dumpVTK(out io.Writer, q *data.Slice, meta data.Meta, dataformat string) (err error) {
