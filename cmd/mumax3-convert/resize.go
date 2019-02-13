@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/util"
+	"github.com/XuebingZhao/3/data"
+	"github.com/XuebingZhao/3/util"
 )
 
 func resize(f *data.Slice, arg string) {
