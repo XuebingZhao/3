@@ -3,8 +3,8 @@ package dump
 
 import (
 	"fmt"
-	"github.com/mumax/3/data"
-	"github.com/mumax/3/util"
+	"github.com/XuebingZhao/3/data"
+	"github.com/XuebingZhao/3/util"
 	"hash"
 	"hash/crc64"
 	"io"
